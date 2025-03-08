@@ -2,7 +2,7 @@
 ### Project Background
 This production analysis is specifically focused on the Pattern Design department within an apparel manufacturing operation, with particular emphasis on how Merchandiser (MER) information timing impacts pattern development. Tracks the critical relationship between merchandiser specification delivery and pattern development timelines, highlighting how delays in receiving complete style specifications from merchandisers significantly impact the pattern team's ability to complete their work on schedule.  
 
-The Pattern Design department relies on timely and accurate information from merchandisers to create patterns that meet design intent, accommodate specific material properties, and align with manufacturing requirements. This dashboard was developed to provide visibility into this interdepartmental dependency, identify where merchandiser delays are creating downstream pattern delays, and help quantify the impact on production timelines.   
+The Pattern Design department relies on timely and accurate information from merchandisers to create patterns that meet design intent, accommodate specific material properties, and align with manufacturing requirements. This analysis was developed to provide visibility into this interdepartmental dependency, identify where merchandiser delays are creating downstream pattern delays, and help quantify the impact on production timelines.   
 
 Indicating this is an active monitoring tool used by pattern managers, production planners, and merchandising teams to improve cross-functional coordination.  
 
