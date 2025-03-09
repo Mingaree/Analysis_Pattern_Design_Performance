@@ -24,25 +24,25 @@ Database structure consists of pattern development metrics for apparel styles, o
 
 # Key Findings
 
-#### • Merchandiser-Pattern Relationship:
+#### Merchandiser-Pattern Relationship:
 
  • New Styles: Average merchandiser released PT day is 5.46 days (likely indicating 5.46 days late)  
  • Carry Over: Average merchandiser released PT day is -14.49 days (indicating release approximately 2 weeks early)  
 
 
-#### • Pattern Completion Impact:
+#### Pattern Completion Impact:
 
  • New Styles with late merchandiser information show only 23.62% on-time pattern completion  
  • Carry Over styles with early merchandiser information achieve 79.56% on-time pattern completion  
 
 
-#### • Merchandiser Delay Cascade Effect:
+#### Merchandiser Delay Cascade Effect:
 
  • 188 New Style patterns (35.21%) are stuck in "Pending MER" status, directly attributable to delayed merchandiser information  
  • Only 1 Carry Over style (0.23%) is pending merchandiser updates, demonstrating the critical difference in information flow  
 
 
-#### • Production Volume Risk:
+#### Production Volume Risk:
 
  • 3,075,890 ordered units for New Styles are affected by pattern delays stemming from late merchandiser information  
  • Pattern delays are causing significant portions of production (37.52% of New Style volume) to fall behind schedule  
